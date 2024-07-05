@@ -1,7 +1,7 @@
 # MERN Stack Project Backend Server Setup
 
 **IMPORTANT NOTICE:**
-If you want the complete project, please contact me through email: [your-email@example.com](mailto:your-email@example.com).
+If you want the complete project, please contact me through email
 
 ## Setup Instructions
 
